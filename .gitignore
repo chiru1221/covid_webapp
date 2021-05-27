@@ -1,8 +1,9 @@
 __pycache__/
 address.txt
+db_name.txt
+server.json
 members.json
 slack_api_key.txt
 covid_record_2021.db
 db_to_csv.sh
 *:Zone.Identifier
-
